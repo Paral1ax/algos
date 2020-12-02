@@ -1,0 +1,11 @@
+"C:\CLion\CLion 2020.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -DCMAKE_TOOLCHAIN_FILE=C:/vcpkg/scripts/buildsystems/vcpkg.cmake -G "CodeBlocks - MinGW Makefiles" C:\CLion\HW_Gorbach_Ilya_1
+CMake Warning at C:/vcpkg/scripts/buildsystems/vcpkg.cmake:209 (message):
+  Unable to determine target architecture, continuing without vcpkg.
+Call Stack (most recent call first):
+  cmake-build-debug/CMakeFiles/3.17.3/CMakeSystem.cmake:6 (include)
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/CLion/HW_Gorbach_Ilya_1/cmake-build-debug

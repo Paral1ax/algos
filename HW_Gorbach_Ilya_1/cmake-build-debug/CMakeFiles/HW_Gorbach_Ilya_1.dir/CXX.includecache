@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/CLion/HW_Gorbach_Ilya_1/main.cpp
+iostream
+-
+gdal.h
+C:/CLion/HW_Gorbach_Ilya_1/gdal.h
+
